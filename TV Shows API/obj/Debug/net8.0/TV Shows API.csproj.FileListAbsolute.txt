@@ -1,0 +1,35 @@
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\appsettings.json
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\TV Shows API.exe
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\TV Shows API.deps.json
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\TV Shows API.runtimeconfig.json
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\TV Shows API.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\TV Shows API.pdb
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.csproj.AssemblyReference.cache
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.AssemblyInfoInputs.cache
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.AssemblyInfo.cs
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.csproj.CoreCompileInputs.cache
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\staticwebassets\msbuild.TV Shows API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\staticwebassets\msbuild.build.TV Shows API.props
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TV Shows API.props
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TV Shows API.props
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\scopedcss\bundle\TV Shows API.styles.css
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows.E0F13D85.Up2Date
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\refint\TV Shows API.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.pdb
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\TV Shows API.genruntimeconfig.cache
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\obj\Debug\net8.0\ref\TV Shows API.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aeomt\Desktop\KOUD\TV Shows API\TV Shows API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

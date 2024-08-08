@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|c:\\users\\aeomt\\desktop\\koud\\tv shows api\\tv shows api\\controllers\\tvshowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|solutionrelative:tv shows api\\controllers\\tvshowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|c:\\users\\aeomt\\desktop\\koud\\tv shows api\\tv shows api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|solutionrelative:tv shows api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|c:\\users\\aeomt\\desktop\\koud\\tv shows api\\tv shows api\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|solutionrelative:tv shows api\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|c:\\users\\aeomt\\desktop\\koud\\tv shows api\\tv shows api\\entities\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|solutionrelative:tv shows api\\entities\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|c:\\users\\aeomt\\desktop\\koud\\tv shows api\\tv shows api\\tv shows api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|solutionrelative:tv shows api\\tv shows api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|c:\\users\\aeomt\\desktop\\koud\\tv shows api\\tv shows api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27261CE6-56F2-49FE-A466-5E8169ED75B6}|TV Shows API\\TV Shows API.csproj|solutionrelative:tv shows api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TvShow.cs",
+              "DocumentMoniker": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\Entities\\TvShow.cs",
+              "RelativeDocumentMoniker": "TV Shows API\\Entities\\TvShow.cs",
+              "ToolTip": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\Entities\\TvShow.cs",
+              "RelativeToolTip": "TV Shows API\\Entities\\TvShow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:31:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TV Shows API.http",
+              "DocumentMoniker": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\TV Shows API.http",
+              "RelativeDocumentMoniker": "TV Shows API\\TV Shows API.http",
+              "ToolTip": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\TV Shows API.http",
+              "RelativeToolTip": "TV Shows API\\TV Shows API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-08T13:58:52.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\appsettings.json",
+              "RelativeDocumentMoniker": "TV Shows API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\appsettings.json",
+              "RelativeToolTip": "TV Shows API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T13:58:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TV Shows API\\DataContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "TV Shows API\\DataContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:52:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\Program.cs",
+              "RelativeDocumentMoniker": "TV Shows API\\Program.cs",
+              "ToolTip": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\Program.cs",
+              "RelativeToolTip": "TV Shows API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:39:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TvShowsController.cs",
+              "DocumentMoniker": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\Controllers\\TvShowsController.cs",
+              "RelativeDocumentMoniker": "TV Shows API\\Controllers\\TvShowsController.cs",
+              "ToolTip": "C:\\Users\\Aeomt\\Desktop\\KOUD\\TV Shows API\\TV Shows API\\Controllers\\TvShowsController.cs",
+              "RelativeToolTip": "TV Shows API\\Controllers\\TvShowsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:22:20.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
